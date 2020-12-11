@@ -1,0 +1,23 @@
+
+<background>
+  <static>
+    <!-- Duration in seconds to display the background -->
+    <duration>15.0</duration>
+    <file>/home/username/Pictures/Wallpapers/abstract/image_2.jpg</file>
+  </static>
+  <transition>
+    <!-- Duration of the transition in seconds, default is 2 seconds -->
+    <duration>7.0</duration>
+    <from>/home/username/Pictures/Wallpapers/abstract/image_2.jpg</from>
+    <to>/home/username/Pictures/Wallpapers/abstract/image_1.jpg</to>
+  </transition>
+  <static>
+    <duration>15.0</duration>
+    <file>/home/username/Pictures/Wallpapers/abstract/image_1.jpg</file>
+  </static>
+  <transition>
+    <duration>7.0</duration>
+    <from>/home/username/Pictures/Wallpapers/abstract/image_1.jpg</from>
+    <to>/home/username/Pictures/Wallpapers/abstract/image_2.jpg</to>
+  </transition>
+</background>
